@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+<link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+![Beschreibung](/assets/images/riegel1.jpg){: .full-width }
