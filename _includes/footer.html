@@ -12,18 +12,15 @@
             {%- if site.author -%}
               {{ site.author | escape }}
             {%- else -%}
-              {{ site.title | escape }}
+              {{ site.description | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          </li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+<div class="footer-col footer-col-2">
+  <p><a href="{{ 'https://wechange.de/project/bettenhaus-interessentinnen/' | absolute_url }}" target="_blank" rel="noopener noreferrer">Zum internen Bereich</a></p>
+</div>
 
       <div class="footer-col footer-col-3">
         <a href="{{ "/impressum/" | relative_url }}">Impressum</a>
