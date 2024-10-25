@@ -9,12 +9,14 @@ permalink: /impressum/
 ## Angaben gemäß § 5 TMG
 
 **Ländlich Wohnen eG**  
-Luisenstraße 24
+Luisenstraße 24  
 14542 Werder (Havel)
 
 ## Vertreten durch
 
-Irene Mohr, Karin Winterer
+Irene Mohr  
+Karin Winterer  
+Marie-Louise Hamann
 
 ## Kontakt
 
