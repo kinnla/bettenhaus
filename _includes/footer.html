@@ -22,12 +22,13 @@
       </div>
 
       <div class="footer-col footer-col-2">
-        <a href="{{ "/impressum/" | relative_url }}">Impressum</a>
+        <p>{{- site.description | escape -}}</p>
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <a href="{{ "/impressum/" | relative_url }}">Impressum</a>
       </div>
+
     </div>
 
   </div>
