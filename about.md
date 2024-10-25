@@ -19,5 +19,22 @@ Nach Berlin ist es ungefähr eine Stunde Fahrzeit per Bahn oder Auto. Der nächs
 
 Wir wünschen uns ein vielfältiges respektvolles Miteinander und freuen uns drauf, von Euch zu hören.
 
-Bei Interesse könnt ihr an einem Info-Abend mit unseren Architektinnen teilnehmen.
+Bei Interesse könnt ihr an einem Info-Abend mit unseren Architektinnen teilnehmen. Schreibt dazu eine E-Mail an <a href="mailto:post@winterer-mohr.eu">post@winterer-mohr.eu</a>.
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="leaflet-map" style="height: 400px; width: 100%;"></div>
+<script>
+    var map = L.map('leaflet-map').setView([52.443955, 12.731357], 12); // Center map on coordinates
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        maxZoom: 19,
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    L.marker([52.443955, 12.731357]).addTo(map)
+        .bindPopup('Willkommen in Götzerberge!')
+        .openPopup();
+</script>
 
