@@ -19,22 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bettenhaus - Wohnen in Götzerberge
-#email: post@winterer-mohr.eu
+email: post@winterer-mohr.eu
 description: >- # this means to ignore newlines until "baseurl:"
-  Wir restaurieren ein Bettenhaus in Götzerberge.
+  Wir restaurieren ein ehemaliges Bettenhaus in Götzerberge.
 baseurl: "/bettenhaus" # the subpath of your site, e.g. /blog
 url: "https://kinnla.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  kinnla
-
-favicon: "/bettenhaus/favicon.ico"
 
 # Build settings
 theme: minima
 
 plugins:
 - jekyll-seo-tag
-#  - jekyll-feed
 
 minima:
   date_format: "%d.%m.%Y" # deutsches Datumsformat
@@ -43,7 +38,6 @@ page_paths:
   - "index.md"           # Startseite
   - "impressionen.md"     # Galerie Seite
   - "about.md"          # Kontakt
-  # "impressum.md" bleibt hier außen vor  # Kein Eintrag für das Impressum
 
 # Exclude from processing.
 # The following items will not be processed, by default.

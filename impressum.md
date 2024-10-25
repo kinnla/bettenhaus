@@ -21,7 +21,7 @@ Marie-Louise Hamann
 ## Kontakt
 
 Telefon: +49 (0) 30 693 4884  
-E-Mail: post@winterer-mohr.eu
+E-Mail: <a href="mailto:{{ site.email }}">{{ site.email }}</a>.
 
 ## Registereintrag
 
