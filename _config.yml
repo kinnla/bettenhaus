@@ -36,8 +36,10 @@ minima:
 
 page_paths:
   - "index.md"           # Startseite
-  - "impressionen.md"     # Galerie Seite
-  - "about.md"          # Kontakt
+  - "impressionen.md"     # Im Dornröschenschlaf
+  - "vision.md"         # Unsere Vision
+  - "about.md"          # Über das Bettenhaus
+  - "contact.md"          # Kontakt
 
 # Exclude from processing.
 # The following items will not be processed, by default.
