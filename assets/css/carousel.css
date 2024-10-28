@@ -1,0 +1,61 @@
+.carousel {
+  position: relative;
+  max-width: 800px;
+  margin: auto;
+  overflow: hidden;
+}
+
+.carousel-item {
+  display: none;
+  width: 100%;
+  position: relative;
+  padding-top: 66.67%; /* 3:2-Ratio */
+  overflow: hidden;
+}
+
+.carousel-item.active {
+  display: block;
+}
+
+.carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Füllt das 3:2-Format ohne Verzerrung */
+}
+
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  font-size: 2em;
+  border: none;
+  cursor: pointer;
+  padding: 0.5em;
+}
+
+.carousel-control.prev {
+  left: 10px;
+}
+
+.carousel-control.next {
+  right: 10px;
+}
+
+.caption {
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  width: 100%;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.6); /* halbtransparenter Hintergrund */
+  color: white;
+  text-align: center;
+  font-size: 1em;
+  font-family: Arial, sans-serif;
+}
