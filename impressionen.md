@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Impressionen"
+title: "Im Dornröschenschlaf"
 permalink: /impressionen/
 ---
 
