@@ -9,8 +9,10 @@ layout: home
 ![Beschreibung](/bettenhaus/assets/images/banner.JPG){: .full-width }
 
 ![Beschreibung](/bettenhaus/assets/images/DSCF1308.jpg){: .full-width }
+Foto: Susanne Beyer
 
 ![Beschreibung](/bettenhaus/assets/images/DSCF1347.jpg){: .full-width }
+Foto: Susanne Beyer
 
 Willkommen in Götzerberge! Der malerische Flecken liegt an der Havel, zwischen Werder und Brandenburg. Zum Bahnhof Götz, unserm Link in die Großstadt, sind es 5km.
 
