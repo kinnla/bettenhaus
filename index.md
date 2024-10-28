@@ -17,5 +17,5 @@ Foto: Susanne Beyer
 ![Beschreibung](/bettenhaus/assets/images/homepage/DSCF1347.jpg){: .full-width }
 Foto: Susanne Beyer
 
-
+___
 
