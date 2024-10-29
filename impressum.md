@@ -16,7 +16,7 @@ Luisenstraße 24
 
 Irene Mohr  
 Karin Winterer  
-Marie-Louise Hamann
+Marie-Luise Hamann
 
 ## Kontakt
 
