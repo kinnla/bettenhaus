@@ -14,17 +14,21 @@ Willkommen in Götzerberge! Der malerische Flecken liegt an der Havel, zwischen 
 Lorem ipsum dolor sit amet, amici carissimi, in unione nostra robur invenimus. Coniunctis viribus, ultra difficultates scandimus, solidaritatem firmamus, et spem in animo tenemus. Amici, non sumus soli; una ascendimus, una cadimus, et rursus una surgimus. Nos adiuvamus, ut omnes in hoc itinere melius procedamus.
 
 <div id="carousel" class="carousel">
+  <div class="carousel-item">
+    <img src="/bettenhaus/assets/images/homepage/entrance.jpg">
+    <div class="caption">Blick von der Straße auf das Ensembe</div>
+  </div>
   <div class="carousel-item active">
-    <img src="/bettenhaus/assets/images/homepage/DSCF1308.jpg" alt="Image 1">
+    <img src="/bettenhaus/assets/images/homepage/DSCF1308.jpg">
     <div class="caption">Eines der Deetzer Erdelöcher, unser Badesee. Foto: Susanne Beyer</div>
   </div>
   <div class="carousel-item">
-    <img src="/bettenhaus/assets/images/homepage/DSCF1347.jpg" alt="Image 2">
+    <img src="/bettenhaus/assets/images/homepage/DSCF1347.jpg">
     <div class="caption">Blick vom Nahegelegenen Aussichtsturm. Foto: Susanne Beyer</div>
   </div>
   <div class="carousel-item">
-    <img src="/bettenhaus/assets/images/homepage/entrance.jpg" alt="Image 3">
-    <div class="caption">Blick von der Straße auf das Ensembe</div>
+    <img src="/bettenhaus/assets/images/homepage/westende.jpg">
+    <div class="caption">Der Westflügel des Plattenbaus mit angrenzendem Landschaftspark</div>
   </div>
 
   <!-- Steuerungselemente -->
