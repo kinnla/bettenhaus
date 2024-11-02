@@ -53,9 +53,9 @@
   left: 0;
   width: 100%;
   padding: 10px;
-  background-color: rgba(0, 0, 0, 0.6); /* halbtransparenter Hintergrund */
+  background-color: rgba(0, 0, 0, 0.4); /* halbtransparenter Hintergrund */
   color: white;
   text-align: center;
-  font-size: 1em;
+  font-size: 0.85em;
   font-family: Arial, sans-serif;
 }
