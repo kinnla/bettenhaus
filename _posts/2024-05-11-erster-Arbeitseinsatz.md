@@ -13,7 +13,8 @@ erstmals den Zugang zum Gelände frei. Es ist alles ordentlich am wachsen und wi
 ![Beschreibung](/bettenhaus/assets/images/arbeitseinsatz/IMG_8666.jpg){: .full-width }
 
 Während wir schwitzen, darf das Lenchen die Sonne geniessen. 
-Das Grundstück ist von einem herrlichen alten Bumbestand umgeben.
+Das Grundstück ist von einem herrlichen alten Baumbestand umgeben.
+Der Blick von der Terasse und Treppe auf die Dorfstraße.
 
 ![Beschreibung](/bettenhaus/assets/images/arbeitseinsatz/IMG_8668.jpg){: .full-width }
 
