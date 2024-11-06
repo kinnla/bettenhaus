@@ -12,7 +12,7 @@ layout: home
 Willkommen in Götzerberge! Der malerische Flecken liegt an der Havel, zwischen Werder und Brandenburg.
 Hier entsteht ein generationenübergreifendes und zukunftsfähiges Wohnen in Stadtnähe.
 Das Wohnprojekt wird von einer kleinen, neu gegründeten Genossenschaft realisiert. Damit soll allen Bewohner*innen und Beteiligten eine langfristige Wohnperspektive in einem toleranten, respektvollen und gemeinwohlorientierten Umfeld ermöglicht werden. 
-Das Bettenhaus liegt wunderschön zwischen den Götzer Bergen, der Havel und den Deetzer Erdelöchern in einem Grundstück mit wunderschönem Bestand an alten Bäumen. Nach Berlin ist es eine Stunde Fahrzeit per Bahn (RE1) oder Auto. Zum Bahnhof Götz, unserm Link in die Großstadt, sind es 5km.
+Das Bettenhaus liegt wunderschön zwischen den Götzer Bergen, der Havel und den Deetzer Erdelöchern. Nach Berlin ist es eine Stunde Fahrzeit per Bahn (RE1) oder Auto. Zum Bahnhof Götz, unserm Link in die Großstadt, sind es 5km.
 
 
 
