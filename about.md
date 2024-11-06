@@ -4,10 +4,10 @@ title: Über das Bettenhaus
 permalink: /about/
 ---
 
-Götzerberge ist ein besonderer Ort, ja, nahezu eine kleine Perle im sonst zu dicht besiedelten Deutschland.
+Götzerberge ist ein besonderer Ort, ja, nahezu eine kleine Perle im sonst so dicht besiedelten Deutschland.
 Der Ort liegt im Landschaftsschutzgebiet Brandenburger Osthavelniederung. Unweit der Havel und der Deetzer Erdlöcher ist am Nordhang der Bruchwald Götzer Berg als Geschützter Landschaftsbestandteil ausgewiesen.
 Was auffällt, wenn man durch den Ort spaziert, ist die Ruhe und Entschleunigung.
-In Götzerberge gibt es außerdem zwei Yoga- und Mediationszentren und weitere nette Gemeinschaften.
+In Götzerberge gibt es außerdem zwei Yoga- und Mediationszentren und weitere nette Gemeinschaften. Der Havelradwanderweg geht durch das Dorf, ansonsten ist es keine Durchfahrtsstraße sondern die Straße endet mit dem Dorfende.
 
 Mitte des 19. Jahrhunderts entstanden im Gemeindeteil Götzer Berge drei Ziegeleien und eine weitere im Wohnplatz Havelufer, die Tonvorkommen zu Steinen für das aufstrebende Berlin brannten. Der Ziegeleibesitzer Hauptmann Daude baute eine Villa mit Park und Wasserturm. Diese war später Gästehaus des FDGB-Bezirksvorstandes Potsdam. Götzer Berge entstand als Siedlung der Ziegler. 
 Unsere Genossenschaft hat das ehemaliges FDGB-Schulungsheim erstanden und wir freuen uns, dem geschichtsträchtigen Ort wieder neues Leben einzuhauchen. Unser Grundstück grenzt direkt an den denkmalgeschützten Park der Villa mit wunderschönem Bestand an alten Bäumen und dahinter ist nur noch der Wald.
