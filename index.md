@@ -9,9 +9,12 @@ layout: home
 <link rel="stylesheet" href="{{ "/assets/css/carousel.css" | relative_url }}">
 ![Beschreibung](/bettenhaus/assets/images/homepage/banner.JPG){: .full-width }
 
-Willkommen in Götzerberge! Der malerische Flecken liegt an der Havel, zwischen Werder und Brandenburg. Zum Bahnhof Götz, unserm Link in die Großstadt, sind es 5km.
+Willkommen in Götzerberge! Der malerische Flecken liegt an der Havel, zwischen Werder und Brandenburg.
+Hier entsteht ein generationenübergreifendes und zukunftsfähiges Wohnen in Stadtnähe.
+Das Wohnprojekt wird von einer kleinen, neu gegründeten Genossenschaft realisiert. Damit soll allen Bewohner*innen und Beteiligten eine langfristige Wohnperspektive in einem toleranten, respektvollen und gemeinwohlorientierten Umfeld ermöglicht werden. 
+Das Bettenhaus liegt wunderschön zwischen den Götzer Bergen, der Havel und den Deetzer Erdelöchern in einem Grundstück mit wunderschönem Bestand an alten Bäumen. Nach Berlin ist es eine Stunde Fahrzeit per Bahn (RE1) oder Auto. Zum Bahnhof Götz, unserm Link in die Großstadt, sind es 5km.
 
-Lorem ipsum dolor sit amet, amici carissimi, in unione nostra robur invenimus. Coniunctis viribus, ultra difficultates scandimus, solidaritatem firmamus, et spem in animo tenemus. Amici, non sumus soli; una ascendimus, una cadimus, et rursus una surgimus. Nos adiuvamus, ut omnes in hoc itinere melius procedamus.
+
 
 <div id="carousel" class="carousel">
   <div class="carousel-item">
@@ -36,12 +39,7 @@ Lorem ipsum dolor sit amet, amici carissimi, in unione nostra robur invenimus. C
   <button class="carousel-control next" onclick="moveSlide(1)">&#10095;</button>
 </div>
 
-Quisque fides nostra in amicitia viget, atque voluntas succurrendi semper praesto est. Integer virtute et compassionis robore animati, firmiter stamus, auxilium ferentes et gaudium spargentes. Curabitur blandit et sustineamus invicem, ne quis cadat sine manu adiutrice. Amicitia nostra lucet ut stellae in tenebris.
-
-Nam vitae motus incerti sunt, et iter sine certitudine procedit; tamen, societas cordium nostrorum lumen praebet. Unus pro omnibus, omnes pro uno, una virtute, una caritate, in posterum gradimur.
-
-Vivamus laeti, propter quod in communione nostra vera fortitudo et audacia recondita est.
-
+Es wird individuelle, barrierefreie Wohnungen und gemeinschaftlich genutzte Bereiche geben. Das ehemaliges FDGB-Schulungsheim wird dazu umgebaut. Neben der sozialen Nachhaltigkeit streben wir eine ökologisch durchdachte, ästhetisch und ökonomisch überzeugende Modernisierung des Baubestands an. Wenn ihr Interesse an dem Projekt habt, meldet euch gern!
 ___
 
 <script>
