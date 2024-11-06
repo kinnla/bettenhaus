@@ -38,7 +38,7 @@ Das Bettenhaus liegt wunderschön zwischen den Götzer Bergen, der Havel und den
   <button class="carousel-control prev" onclick="moveSlide(-1)">&#10094;</button>
   <button class="carousel-control next" onclick="moveSlide(1)">&#10095;</button>
 </div>
-
+<br>
 
 Es wird individuelle, barrierefreie Wohnungen und gemeinschaftlich genutzte Bereiche geben. Das ehemaliges FDGB-Schulungsheim wird dazu umgebaut. Neben der sozialen Nachhaltigkeit streben wir eine ökologisch durchdachte, ästhetisch und ökonomisch überzeugende Modernisierung des Baubestands an. Wenn ihr Interesse an dem Projekt habt, meldet euch gern!
 
